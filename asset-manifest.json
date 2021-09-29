@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BeerTimePage/static/css/main.2508d2ac.chunk.css",
+    "main.js": "/BeerTimePage/static/js/main.7839d55a.chunk.js",
+    "main.js.map": "/BeerTimePage/static/js/main.7839d55a.chunk.js.map",
+    "runtime-main.js": "/BeerTimePage/static/js/runtime-main.1b692fa1.js",
+    "runtime-main.js.map": "/BeerTimePage/static/js/runtime-main.1b692fa1.js.map",
+    "static/js/2.268ec859.chunk.js": "/BeerTimePage/static/js/2.268ec859.chunk.js",
+    "static/js/2.268ec859.chunk.js.map": "/BeerTimePage/static/js/2.268ec859.chunk.js.map",
+    "index.html": "/BeerTimePage/index.html",
+    "static/css/main.2508d2ac.chunk.css.map": "/BeerTimePage/static/css/main.2508d2ac.chunk.css.map",
+    "static/js/2.268ec859.chunk.js.LICENSE.txt": "/BeerTimePage/static/js/2.268ec859.chunk.js.LICENSE.txt",
+    "static/media/LogoImage.dd052b77.svg": "/BeerTimePage/static/media/LogoImage.dd052b77.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b692fa1.js",
+    "static/js/2.268ec859.chunk.js",
+    "static/css/main.2508d2ac.chunk.css",
+    "static/js/main.7839d55a.chunk.js"
+  ]
+}
